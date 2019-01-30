@@ -1,6 +1,6 @@
 # Simple-web-scraper
 <b>Scraper used to scrape details from the website</b>
-<p>Git clone</p>
+<p>Clone It</p>
 
 ```
 git clone https://github.com/Harshithpabbati/Simple-web-scraper.git
